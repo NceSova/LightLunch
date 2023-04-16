@@ -7,6 +7,6 @@ import retrofit2.http.GET;
 
 public interface ReciepesApi {
 
-    @GET("reciepe")
+    @GET("/lunch")
     Call<List<Reciepe>> getReciepes();
 }

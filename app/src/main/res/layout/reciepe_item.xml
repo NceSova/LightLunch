@@ -14,4 +14,8 @@
         android:id="@+id/description_text_view"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="LoadMore"/>
 </LinearLayout>
